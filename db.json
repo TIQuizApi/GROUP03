@@ -1,0 +1,81 @@
+{
+    "a": {
+        "id": "a",
+        "question": "O que significa a sigla CSS?",
+        "options": {
+            "a": "Computer Style Sheet",
+
+            "b": "Cascading Style Sheet",
+
+            "c": "Colorful Style Sheet",
+
+            "d": "Creative Style Sheet"
+        },
+        "correta": "b",
+        "proxima": "b"
+    },
+    
+    "b": {
+        "id": "b",
+        "question": "Qual maneira pode ser utilizado o CSS?",
+        "options": {
+            "a": "Interno",
+    
+            "b": "Externo",
+    
+            "c": "Inline",
+    
+            "d": "Todas as opções acima"
+        },
+        "correta": "d",
+        "proxima": "c"
+    },
+
+    "c": {
+        "id": "c",
+        "question": "Qual é a sintaxe CSS correta?",
+        "options": {
+            "a": "body {color: black;}",
+    
+            "b": "body: color = black;",
+    
+            "c": "{body color: black;}",
+    
+            "d": "{body: color = black;}"
+        },
+        "correta": "a",
+        "proxima": "d"
+    },
+
+    "d": {
+        "id": "d",
+        "question": "Qual a pseudo classe usada para aplicar estilização quando o mouse passar por cima do elemento",
+        "options": {
+            "a": ":first-child",
+    
+            "b": ":active",
+    
+            "c": ":focus",
+    
+            "d": ":hover"
+        },
+        "correta": "d",
+        "proxima": "e"
+    },
+
+    "e": {
+        "id": "e",
+        "question": "Qual propriedade CSS controla o tamanho do texto?",
+        "options": {
+            "a": "font-style",
+    
+            "b": "text-size",
+    
+            "c": "text-style",
+    
+            "d": "font-size"
+        },
+        "correta": "d",
+        "proxima": "fim"
+    }
+}
